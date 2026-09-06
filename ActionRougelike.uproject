@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{F2205417-457E-FB13-C2CB-358B1A32AD78}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ActionRougelike",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
